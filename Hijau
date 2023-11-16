@@ -155,7 +155,7 @@ http://foctv.xyz:25510/live/%40azamcekman/Ti0NKDy655/1023.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSupersport" group-logo="https://i.ibb.co/fGXwG99/94949.png" tvg-name="Astro UHD" group-title="SPORT BACKUP" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png", ASTRO SUPERSPORT 1 (SERVER 1)
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro UHD" group-title="SPORT BACKUP" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png", ASTRO SUPERSPORT 1 (SERVER 2)
 http://kuchini.site:8080/live/xhevahir2022/bTUNuQxGfD64wgMZ/146068.m3u8
