@@ -9,7 +9,7 @@ https://unifi-live05.secureswiftcontent.com:443/UnifiHD
 ##############RIA WARNA CITRA PRIMA#############
 
 #EXTINF:-1 group-title="WARNA RIA CITRA PRIMA (OFFLINE)" group-logo="https://i.ibb.co/fGXwG99/94949.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria 1
-http://foctv.xyz:25510/live/%40azamcekman/Ti0NKDy655/1018.ts
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 
 #EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="WARNA RIA CITRA PRIMA (OFFLINE)" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra 1
